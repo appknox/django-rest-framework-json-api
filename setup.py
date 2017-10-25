@@ -68,7 +68,7 @@ if sys.argv[-1] == 'publish':
     sys.exit()
 
 setup(
-    name='djangorestframework-jsonapi',
+    name='ak-djangorestframework-jsonapi',
     version=get_version('rest_framework_json_api'),
     url='https://github.com/django-json-api/django-rest-framework-json-api',
     license='MIT',
